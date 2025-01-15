@@ -27,3 +27,7 @@ Contrôle du jeu:
  - `C` : Afficher les hitboxes
 
 
+### Demo
+
+https://github.com/user-attachments/assets/958464db-7ce5-484d-b4ab-cccb21e9ccae
+
